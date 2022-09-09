@@ -6,11 +6,11 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['50498965677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['51993042301', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['50495086382'],
-  ['593968585383'] 
+  ['03093768677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
+  ['03093768677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
+  ['03093768677', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
+  ['03093768677'],
+  ['03093768677'] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -109,13 +109,13 @@ global.gatabot = md
 global.nna = 'https://chat.whatsapp.com/I4pF9XijY6CLsf3rrNXApw'
 global.nnagrupo = nna //UPDATE GATABOT
 
-global.nn = 'https://chat.whatsapp.com/CunoFmEfBW75APfI0ZO5DJ'
+global.nn = 'https://chat.whatsapp.com/JJRknujBKzbC76Svk5OrfW
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/EuDCIPGyenPKDDyRfO5jD3'
+global.nnn = https://chat.whatsapp.com/JJRknujBKzbC76Svk5OrfW
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/Kuyj36S1yCc0vVzI87UI5k'
+global.nnnt = https://chat.whatsapp.com/JJRknujBKzbC76Svk5OrfW
 global.nnngrupo = nnnt //Grupo 3
 
 global.paypal = 'https://paypal.me/OficialGD'
